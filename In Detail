@@ -4,7 +4,6 @@ Commands:
 /suggest (Sends a suggestion to the set channel)
 /mainsuggest (Sends a suggestion to the offical discord)
 /leaderboard (Shows your server members their total messages sent the bot join)
-/code (Shows the bot's language)
 /serverstats (Shows your servers stats)
 /whois (Shows a members info)
 /8ball (Ask the 8ball a question)
