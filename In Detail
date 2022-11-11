@@ -1,0 +1,34 @@
+Commands:
+/say (Bot says what you type)
+/pms (Bot sends what you type but doesnt reply you)
+/suggest (Sends a suggestion to the set channel)
+/mainsuggest (Sends a suggestion to the offical discord)
+/leaderboard (Shows your server members their total messages sent the bot join)
+/code (Shows the bot's language)
+/serverstats (Shows your servers stats)
+/whois (Shows a members info)
+/8ball (Ask the 8ball a question)
+/host (Shows the bot's offical host)
+/coinflip (Flips a coin)
+/embedcreate (Create your own embed)
+/diceroll (Roll a dice)
+/botinfo (Shows the bot's info)
+/simpdetector (Shows a users simp level)
+/report (Sends a report to the selected channel)
+
+Moderation Commands:
+/purge (Deletes a max amount 1000 messages instantly)
+ban/unban (Ban or unban a specified user ((Unban needs user id))
+/kick (Kicks a speicifed user)
+unlock/lockdown (Lock or Unlock a specified channel)
+/setrc (Sets a report channel)
+/setsc (Sets a suggestion channel)
+
+Calculation Commands: This is self explanitory 
+/Add
+/Subtract
+/Multiply
+/Divide
+
+Experimental:
+Bump Reminder (Starts a timer when it reads DISBOARDS member id)
