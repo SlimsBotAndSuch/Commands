@@ -15,6 +15,7 @@ Commands:
 /botinfo (Shows the bot's info)
 /simpdetector (Shows a users simp level)
 /report (Sends a report to the selected channel)
+/runtime (Shows the time the bot's been up)
 
 Moderation Commands:
 /purge (Deletes a max amount 1000 messages instantly)
