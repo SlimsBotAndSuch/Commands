@@ -16,12 +16,14 @@ Commands:
 /simpdetector (Shows a users simp level)
 /report (Sends a report to the selected channel)
 /runtime (Shows the time the bot's been up)
+/swarns (Shows the member's warn count for the server)
 
 Moderation Commands:
 /purge (Deletes a max amount 1000 messages instantly)
 ban/unban (Ban or unban a specified user ((Unban needs user id))
 /kick (Kicks a speicifed user)
 unlock/lockdown (Lock or Unlock a specified channel)
+/warn (Warns a specified member adding a count to a leaderboard)
 /setrc (Sets a report channel)
 /setsc (Sets a suggestion channel)
 
