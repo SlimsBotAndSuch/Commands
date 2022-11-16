@@ -17,6 +17,7 @@ Commands:
 /report (Sends a report to the selected channel)
 /runtime (Shows the time the bot's been up)
 /swarns (Shows the member's warn count for the server)
+/partners (Shows partnered servers)
 
 Moderation Commands:
 /purge (Deletes a max amount 1000 messages instantly)
