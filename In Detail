@@ -10,7 +10,6 @@ Commands:
 /8ball (Ask the 8ball a question)
 /host (Shows the bot's offical host)
 /coinflip (Flips a coin)
-/embedcreate (Create your own embed)
 /diceroll (Roll a dice)
 /botinfo (Shows the bot's info)
 /simpdetector (Shows a users simp level)
