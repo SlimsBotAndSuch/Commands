@@ -11,10 +11,9 @@ Commands:
 /host (Shows the bot's offical host)
 /coinflip (Flips a coin)
 /diceroll (Roll a dice)
-/botinfo (Shows the bot's info)
+/botinfo (Shows the bot's info, including runtime)
 /simpdetector (Shows a users simp level)
 /report (Sends a report to the selected channel)
-/runtime (Shows the time the bot's been up)
 /swarns (Shows the member's warn count for the server)
 /partners (Shows partnered servers)
 
