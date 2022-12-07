@@ -17,7 +17,8 @@ Commands:
 /report (Sends a report to the selected channel)
 /swarns (Shows the member's warn count for the server)
 /partners (Shows partnered servers)
-/esay (Say a message in a embed)
+/embedcreate (Create a embed)
+/hextest (Test a hex color code)
 
 Moderation Commands:
 /purge (Deletes a max amount 1000 messages instantly)
@@ -33,6 +34,3 @@ Calculation Commands: This is self explanitory
 /Subtract
 /Multiply
 /Divide
-
-Experimental:
-Bump Reminder (Starts a timer when it reads DISBOARDS member id)
