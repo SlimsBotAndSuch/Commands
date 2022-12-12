@@ -28,7 +28,8 @@ unlock/lockdown (Lock or Unlock a specified channel)
 /warn (Warns a specified member adding a count to a leaderboard)
 /setrc (Sets a report channel)
 /setsc (Sets a suggestion channel)
-
+/slowmode (Set's slowmode for the current channel)
+defean/undeafen(Deafens & Undeafens a member)
 Calculation Commands: This is self explanitory 
 /Add
 /Subtract
